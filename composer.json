@@ -1,0 +1,6 @@
+{
+	"name": "TDD",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
